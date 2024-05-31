@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T09:12:28.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tPAe34rrV0-7wtn9D4Cs" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T09:13:08.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ON82DzlwjRQ0AFrRRWII" version="24.4.10" type="github">
   <diagram name="Page-1" id="a3lJTu-IXyHbUOSdx-mn">
     <mxGraphModel dx="983" dy="5266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -81,9 +81,6 @@
             <mxPoint x="430" y="120" as="sourcePoint" />
             <mxPoint x="290" y="125" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-65" value="This component simulates a simple device" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="297" y="-170" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-66" value="This component&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;orchestrates the simulation.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;It implements the services of the FSS_orchestration interface specification&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="737" y="-140" width="120" height="90" as="geometry" />
@@ -219,6 +216,9 @@
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-119" value="This interface provides the&amp;nbsp; global simulation initialisation, which relies on initialisation services provided by all components" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2;size=20;position=0.08;position2=0.15;direction=south;" vertex="1" parent="1">
           <mxGeometry x="804" y="108" width="125" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cw1v78BgHGjvIyoxlNof-65" value="This component simulates a simple device" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="447" y="-110" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
