@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T09:13:34.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2zHp3C4IibjJPKFc-5km" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T09:20:01.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Bg8jODY9EW5SOEkRjemC" version="24.4.10" type="github">
   <diagram name="Page-1" id="a3lJTu-IXyHbUOSdx-mn">
-    <mxGraphModel dx="1388" dy="5507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="5165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,14 +8,14 @@
           <mxGeometry x="700" y="-60" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-60" width="300" height="140" as="geometry" />
+          <mxGeometry x="360" y="-60" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-12" value="Communication network transport" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;" vertex="1" parent="1">
           <mxGeometry x="160" y="530" width="920" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cw1v78BgHGjvIyoxlNof-91" target="cw1v78BgHGjvIyoxlNof-92">
+        <mxCell id="cw1v78BgHGjvIyoxlNof-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cw1v78BgHGjvIyoxlNof-92">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="320" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="sourcePoint" />
             <mxPoint x="630" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -34,11 +34,8 @@
         <mxCell id="cw1v78BgHGjvIyoxlNof-37" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="30" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-41" value="This is what we develop in the WG" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-43" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;b&gt;FSS state mngt IF&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fss_save (Type): Type&lt;br&gt;+ fss_restore (Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="190" height="50" as="geometry" />
+          <mxGeometry x="90" y="150" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="160" height="200" as="geometry" />
@@ -73,8 +70,8 @@
             <mxPoint x="10" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;b&gt;FSS sim mngt IF&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fss_step (Type): Type&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="190" height="50" as="geometry" />
+        <mxCell id="cw1v78BgHGjvIyoxlNof-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;b&gt;FSS sim mngt IF&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fss_step (Type): Type&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ...&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-64" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cw1v78BgHGjvIyoxlNof-63">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -218,7 +215,16 @@
           <mxGeometry x="804" y="108" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-65" value="This component simulates a simple device" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="447" y="-110" width="120" height="90" as="geometry" />
+          <mxGeometry x="447" y="-90" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cw1v78BgHGjvIyoxlNof-120" value="This interface provides the&amp;nbsp; global simulation initialisation, which relies on initialisation services provided by all components" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2;size=20;position=0.08;position2=0.23;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-5" width="125" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cw1v78BgHGjvIyoxlNof-41" value="This is what we develop in the WG" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cw1v78BgHGjvIyoxlNof-121" value="Clarify the two levels: API and meta-model&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The meta-model is aimed at describing the services provided by a simulation component.&lt;/div&gt;&lt;div&gt;A component may describe the service using this API without supporting the FSS API.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;size=20;position=0.46;position2=0.5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-175" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
