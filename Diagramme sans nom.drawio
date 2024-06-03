@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:31:14.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ARgJV4l5UtMA2Hex9OG1" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:31:58.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="48IRiJy13hNOUgEUnPBT" version="24.4.10" type="github">
   <diagram name="Page-1" id="a3lJTu-IXyHbUOSdx-mn">
     <mxGraphModel dx="1475" dy="5559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -322,13 +322,13 @@
           <mxGeometry x="1480" y="-140" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-35" value="SystemC simulation component" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="-116.87" width="100" height="76.87" as="geometry" />
+          <mxGeometry x="1510" y="-113.74000000000001" width="100" height="76.87" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1720" y="-140" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-37" value="QEMU model" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="-116.87" width="100" height="76.87" as="geometry" />
+          <mxGeometry x="1750" y="-116.87" width="100" height="76.87" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemc.org/images/systemc.png;" vertex="1" parent="1">
           <mxGeometry x="1514.5" y="-190.00000000000003" width="91" height="33.06" as="geometry" />
@@ -357,7 +357,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-48" value="SMP2 model" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="-116.87" width="100" height="76.87" as="geometry" />
+          <mxGeometry x="1990" y="-116.87" width="100" height="76.87" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-50" value="See the SMP2 metamodel (ECSS-E-TM-40-07-Volume 1A)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e51400;strokeColor=#B20000;size=20;position=0.46;position2=0.5;fontSize=11;fontColor=#ffffff;align=left;" vertex="1" parent="1">
           <mxGeometry x="1960" y="-324" width="140" height="94" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry x="2200" y="-140" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-52" value="VISTAS&lt;br&gt;model" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="-116.87" width="100" height="76.87" as="geometry" />
+          <mxGeometry x="2230" y="-116.87" width="100" height="76.87" as="geometry" />
         </mxCell>
         <UserObject label="VISTAS" refs="- Principles and requirements: https://ecss.nl/get_attachment.php?file=standards/ecss-e/ECSS-E-TM-40-07-Volume1A25January2011.pdf&#xa;- Metamodel: https://ecss.nl/get_attachment.php?file=standards/ecss-e/ECSS-E-TM-40-07-Volume2A25January2011.pdf&#xa;- Component model: https://ecss.nl/get_attachment.php?file=standards/ecss-e/ECSS-E-TM-40-07-Volume3A25Janaury2011.pdf&#xa;- C++ mapping: https://ecss.nl/get_attachment.php?file=standards/ecss-e/ECSS-E-TM-40-07-Volume4A25January2011.pdf&#xa;- SMP usage: https://ecss.nl/get_attachment.php?file=standards/ecss-e/ECSS-E-TM-40-07-Volume5A25January2011.pdf&#xa;&#xa;" link="https://www.eurocae.net/news/posts/2020/april/ed-247a-technical-standard-for-virtual-interoperable-simulation-for-tests-of-aircraft-systems-in-virtual-or-hybrid-bench/" id="bgHQJeM0eiA7G-xrBvEw-53">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
