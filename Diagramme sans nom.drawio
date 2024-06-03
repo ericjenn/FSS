@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:00:19.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="twdKCCqrit5sQvDSZ1BO" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:07:08.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WXgcxN1audtuKLnigSsF" version="24.4.10" type="github">
   <diagram name="Page-1" id="a3lJTu-IXyHbUOSdx-mn">
-    <mxGraphModel dx="2145" dy="5957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="5559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="cw1v78BgHGjvIyoxlNof-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.115;exitY=0.971;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" parent="1" source="cw1v78BgHGjvIyoxlNof-29" target="cw1v78BgHGjvIyoxlNof-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-29" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cw1v78BgHGjvIyoxlNof-29" value="FSS ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-37" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
             <mxPoint x="440" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-50" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cw1v78BgHGjvIyoxlNof-50" value="FSS ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-53" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="cw1v78BgHGjvIyoxlNof-66" value="This component&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;orchestrates the simulation.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;It implements the services of the FSS_orchestration interface specification&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="737" y="-140" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-69" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cw1v78BgHGjvIyoxlNof-69" value="FSS ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-70" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cw1v78BgHGjvIyoxlNof-69" edge="1">
@@ -177,7 +177,7 @@
         <mxCell id="cw1v78BgHGjvIyoxlNof-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="cw1v78BgHGjvIyoxlNof-105" target="cw1v78BgHGjvIyoxlNof-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cw1v78BgHGjvIyoxlNof-105" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cw1v78BgHGjvIyoxlNof-105" value="FSS ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cw1v78BgHGjvIyoxlNof-106" value="" style="group;rotation=270;" parent="1" vertex="1" connectable="0">
@@ -317,6 +317,42 @@
         </mxCell>
         <mxCell id="bgHQJeM0eiA7G-xrBvEw-27" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1086" y="-163.12" width="16.25" height="16.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-140" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-35" value="SystemC simulation component" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-105" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-140" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-37" value="QEMU model" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-110" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemc.org/images/systemc.png;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="-195.56000000000003" width="91" height="33.06" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_170817.png;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-210" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-40" value="Actual hardware" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="-116.87" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-146.87" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-42" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-43" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-44" value="ADAPTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bgHQJeM0eiA7G-xrBvEw-46" value="SMP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="-195.56" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
